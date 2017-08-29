@@ -1,6 +1,5 @@
 # WebGL graphic mockup for The TGS Team's setup
 This repo is intended for the TGS/FCC team, to introduce the project.
-Please contact post an Issue if you would like to be involved.
 It is at this point you may offer insight and technical understanding to become involved.
 # OVERVIEW
 I am getting desperate at almost my first year of learning to be a developer to build a resume. I found a Graphics shop local to me, that 1. Did not have a working website. 2. Is grateful for the assistance, I believe from his prior hosting that he was royally screwed. And 3. Has an increadable reputation as a member of the community, and near perfect marks of taking care of his clients since... my notes are in the car. Quite some time though. [<~ ammend this]
