@@ -3,9 +3,9 @@ This repo is intended for the TGS/FCC team, to introduce the project.
 Please contact post an Issue if you would like to be involved.
 It is at this point you may offer insight and technical understanding to become involved.
 # OVERVIEW
-I am getting desperate at almost my first year of learning to be a developer to build a resume. I found a Graphics shop local to me, that 1. Did not have a working website. 2. Is grateful for the assistance, I believe from his prior hosting that he was royally screwed. And 3. Has an increadable reputation as member of the community, and near perfect marks of taking care of his clients since... my notes are in the car. Quite some time though. [<~ ammend this]
+I am getting desperate at almost my first year of learning to be a developer to build a resume. I found a Graphics shop local to me, that 1. Did not have a working website. 2. Is grateful for the assistance, I believe from his prior hosting that he was royally screwed. And 3. Has an increadable reputation as a member of the community, and near perfect marks of taking care of his clients since... my notes are in the car. Quite some time though. [<~ ammend this]
 
-Noone offers a webGL depth map for product mockup, and I want to change that. At best they do alpha blending.
+Noone offers webGL maps for product mockup, and I want to change that. At best they do alpha blending.
 He does Banners, Cards, Signs, and Shirts. I plan to collect a base image to create the mesh, blanks, and maps.
 A person comes to the site wanting to have something made, they offer some details to create an account, the file system must be exposed to store a users images, I'd like to support single color masks from png & sgv. Possibly Jpeg, to the exclusion of screen print shirts 6 color index. Enforce 300ppi on the source. Offer translation, xy control, and resizing. An object model to communicate with the shop these characteristics for reconstruction. Shirts are really THE most complicated model of the project, and the starting point.
 Screenprint:
