@@ -21,3 +21,4 @@ The problem we are solving is the difficulty of having to pay a designer to clea
 I think this has the potential to blow away everyone else in this for a downpayment of time and energy and see it as liscensable from our team as a unit if not a really good way to put something flashy-shiney on a resume. Realisticly projects need more than one person anyways. Lets see if we end up being friends and mentors to each other.
 
 Feel free to PM, push, or issue any input or questions you have or related experience, I'd prefer to keep any server configurations off the public repo, PM for the current link and details. I'm just rambling now. -etisdew
+You can hop on discord with https://discord.gg/QMD7GS
