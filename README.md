@@ -22,3 +22,5 @@ I think this has the potential to blow away everyone else in this for a downpaym
 
 Feel free to PM, push, or issue any input or questions you have or related experience, I'd prefer to keep any server configurations off the public repo, PM for the current link and details. I'm just rambling now. -etisdew
 You can hop on discord with https://discord.gg/QMD7GS
+
+Contributors are free to reinterpret and use the code and for their own professional toolkit but that is the limit of liscense for any content within.
