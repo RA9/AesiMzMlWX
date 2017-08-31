@@ -25,9 +25,9 @@
 		</style>
 		<title>The Graphics Shop</title>
 	</head>
-	<body  ondrop="drop()" droppable="true">
+	<body>
 		<canvas>WebGL2, Javascript, and HTML5 are needed to view this correctly.</canvas>
-		<nav id="a" ondrag="move(document.getElementById('a'));" ondrop="preventDefault(ev);" ondragend="preventDefault(ev);" draggable="true"><!-- Successful demonstration of overflow, note that default isn't that attractive -->
+		<nav><!-- Successful demonstration of overflow, note that default isn't that attractive -->
 			<div><li>as</li>
 			<li>of</li>
 			<li>now</li>
@@ -106,15 +106,4 @@
 		</nav>
 	</body>
 	<style type="text/css">*{visibility: visible;}</style><!--  Allow the changes to be painted after full load, could just as easily handle with Javascript. -->
-	<script type="text/javascript">
-		function move(elem){
-      		elem.style.top = `${event.clientY}px`; 
-      		elem.style.left = `${event.clientX}px`;
-      		a = elem;
-     	}
-     	function drop(elem){
-     		a.style.top = '100px'; 
-      		a.style.left = '100px';
-     	}
-	</script>
 </html>
